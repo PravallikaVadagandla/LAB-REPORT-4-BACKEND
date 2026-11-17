@@ -2,14 +2,14 @@
 
 ## Student Details
 
-- **Name:** Pravalika
+- **Name:** V. LAKSHMI PRAVALLIKA
 - **Registration Number:** 252U1R1246
 - **Section:** CSE 2E S-016
 - **Course:** Backend Development Fundamentals
 - **Year:** II
 - **Term:** II
 - **University:** Aurora
-- **Faculty:** Yugendhar
+- **Faculty:** Yugandher
 
 ## Live Link
 
