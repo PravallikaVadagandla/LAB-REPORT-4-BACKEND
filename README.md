@@ -9,7 +9,7 @@
 - **Year:** II
 - **Term:** II
 - **University:** Aurora
-- **Faculty:** Joel Prashanth D
+- **Faculty:** Yugendhar
 
 ## Live Link
 
